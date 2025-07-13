@@ -1,1 +1,1 @@
-# Sales-Insights-PowerBI-project
+ Sales-Insights-PowerBI-project using SQL and PowerBI.
